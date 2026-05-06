@@ -5,7 +5,7 @@
 
 <!-- Typing SVG - Role & Motto alternating -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1200&color=A78BFA&center=true&vCenter=true&width=700&lines=Mobile+Fullstack+Developer+%F0%9F%93%B1;%22Ship+fast%2C+think+deep%2C+build+bold.%22+%F0%9F%9A%80;UI%2FUX+Designer+%26+Creative+Thinker+%F0%9F%96%8C%EF%B8%8F;%22Code+is+my+canvas%2C+logic+is+my+brush.%22+%F0%9F%8E%A8;Flutter+%26+Laravel+Engineer+%E2%9A%99%EF%B8%8F;%22Great+products+don%27t+happen+by+accident.%22+%E2%9C%A8;%22I+don%27t+just+write+code+%E2%80%94+I+craft+experience.%22+%F0%9F%92%AB;From+Jember%2C+built+different.+%F0%9F%8E%93" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Bebas+Neue&weight=700&size=32&pause=1200&color=A78BFA&center=true&vCenter=true&width=700&lines=MOBILE+FULLSTACK+DEVELOPER+%F0%9F%93%B1;SHIP+FAST.+THINK+DEEP.+BUILD+BOLD.+%F0%9F%9A%80;UI%2FUX+DESIGNER+%26+CREATIVE+THINKER+%F0%9F%96%8C%EF%B8%8F;CODE+IS+MY+CANVAS%2C+LOGIC+IS+MY+BRUSH.+%F0%9F%8E%A8;FLUTTER+%26+LARAVEL+ENGINEER+%E2%9A%99%EF%B8%8F;GREAT+PRODUCTS+DON%27T+HAPPEN+BY+ACCIDENT.+%E2%9C%A8;I+DON%27T+JUST+WRITE+CODE+%E2%80%94+I+CRAFT+EXPERIENCE.+%F0%9F%92%AB;FROM+JEMBER%2C+BUILT+DIFFERENT.+%F0%9F%8E%93" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -15,10 +15,6 @@
 &nbsp;
 <a href="mailto:fiqriariel25@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-fiqriariel25-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://pemkabjember.vercel.app">
-  <img src="https://img.shields.io/badge/Portfolio-pemkabjember.vercel.app-7C3AED?style=flat-square&logo=vercel&logoColor=white"/>
 </a>
 
 </div>
@@ -112,15 +108,13 @@ class FiqriArielPradhana {
 </div>
 
 ```yaml
-fun_facts:
-  - "☕  Coffee first. IDE second. No negotiation."
-  - "🌙  Peak productivity unlocked somewhere between 10 PM and 2 AM"
-  - "🎨  Figma wireframe exists before a single line of code is written. Always."
-  - "📱  Mobile-first isn't a rule — it's a religion"
-  - "🔁  Git commit messages are personal diary entries, but make it aesthetic"
-  - "🧠  Figuring out a bug at 1 AM feels better than any caffeine rush"
-  - "🌹  Proudly from Jember — City of Tobacco, Beaches & Underrated Devs"
-  - "🎯  If the UI isn't satisfying to tap, the work isn't done yet"
+random_facts:
+  - "☕  Can't start coding without a cup of coffee first"
+  - "🌙  Most productive between 10 PM and 2 AM"
+  - "🎨  Always wireframe in Figma before writing a single line of code"
+  - "📱  If it's not mobile-first, it's not done"
+  - "🔁  Git commit messages are a form of self-expression"
+  - "🌹  Proudly from Jember — City of Tobacco & Creative Devs"
 ```
 
 ---
@@ -130,11 +124,11 @@ fun_facts:
 ## 🎯 Current Goals
 
 ```
- ✅  Lulus dengan nilai terbaik di Universitas Jember
- 🔄  Membangun portfolio mobile app dengan Flutter
- 🔄  Mendalami UI/UX design system di Figma
- 🎯  Berkontribusi pada proyek open-source
- 🎯  Menjadi fullstack developer profesional
+ ✅  Graduate with the best GPA at Universitas Jember
+ 🔄  Building a mobile app portfolio with Flutter
+ 🔄  Deepening UI/UX design system knowledge in Figma
+ 🎯  Contributing to open-source projects
+ 🎯  Becoming a professional fullstack developer
 ```
 
 </div>
