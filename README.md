@@ -5,7 +5,7 @@
 
 <!-- Typing SVG - Role & Motto alternating -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Oswald&weight=700&size=32&pause=1200&color=A78BFA&center=true&vCenter=true&width=700&lines=Mobile+Fullstack+Developer+%F0%9F%93%B1;Ship+Fast.+Think+Deep.+Build+Bold.+%F0%9F%9A%80;UI%2FUX+Designer+%26+Creative+Thinker+%F0%9F%96%8C%EF%B8%8F;Code+Is+My+Canvas%2C+Logic+Is+My+Brush.+%F0%9F%8E%A8;Flutter+%26+Laravel+Engineer+%E2%9A%99%EF%B8%8F;Great+Products+Don%27t+Happen+By+Accident.+%E2%9C%A8;I+Don%27t+Just+Write+Code+%E2%80%94+I+Craft+Experience.+%F0%9F%92%AB;From+Jember%2C+Built+Different.+%F0%9F%8E%93" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Oswald&weight=700&size=32&pause=1200&color=FFFFFF&center=true&vCenter=true&width=700&lines=MOBILE+FULLSTACK+DEVELOPER+%F0%9F%93%B1;SHIP+FAST.+THINK+DEEP.+BUILD+BOLD.+%F0%9F%9A%80;UI%2FUX+DESIGNER+%26+CREATIVE+THINKER+%F0%9F%96%8C%EF%B8%8F;CODE+IS+MY+CANVAS%2C+LOGIC+IS+MY+BRUSH.+%F0%9F%8E%A8;FLUTTER+%26+LARAVEL+ENGINEER+%E2%9A%99%EF%B8%8F;GREAT+PRODUCTS+DON%27T+HAPPEN+BY+ACCIDENT.+%E2%9C%A8;I+DON%27T+JUST+WRITE+CODE+%E2%80%94+I+CRAFT+EXPERIENCE.+%F0%9F%92%AB;FROM+JEMBER%2C+BUILT+DIFFERENT.+%F0%9F%8E%93" alt="Typing SVG" />
 </a>
 
 <br/>
