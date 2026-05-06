@@ -88,9 +88,9 @@ class FiqriArielPradhana {
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=arielpradhana&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=7C3AED&text_color=c9d1d9&border_radius=12&cache_seconds=1800&rank_icon=github" height="170"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=arielpradhana&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=7C3AED&text_color=c9d1d9&border_radius=12"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arielpradhana&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9&border_radius=12&cache_seconds=1800&langs_count=8" height="170"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=arielpradhana&layout=compact&theme=tokyonight"/>
 
 <br/><br/>
 
